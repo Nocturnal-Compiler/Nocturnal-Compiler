@@ -7,3 +7,5 @@
 - 💬 Ask me about LIFE
 - 📫 How to reach me: Dm Pro Gamer 711 YT (The Code)#9546 On Discord
 - ⚡ Fun fact: Peace Was Never A Option
+
+```const meme = require('memes')```
