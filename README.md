@@ -8,13 +8,13 @@
          <br/><br/>
             <a href="https://discord.gg/ktTJCzTtCM"><img align="center" src="https://discordapp.com/api/guilds/924943715053760572/widget.png?style=banner3" alt="Discord Banner2"/></a>
          <br/><br/>
-         - 🔭 I’m currently working on <strong><a href="https://multiverse-bot.herokuapp.com/">Multiverse Bot - Discord Bot</a></strong> -
+         - 🔭 I’m currently working on <strong><a href="https://multiverse-bot.herokuapp.com/">Multiverse Bot - Discord Bot</a></strong> 
          <br/>
-         - 🌱 I’m currently learning <strong>Javascript</strong> -
+         - 🌱 I’m currently learning <strong>Javascript</strong> 
          <br/>
-         - 💬 Ask me about <strong>JavaScript, Html, CSS, Learning More Languages</strong> -
+         - 💬 Ask me about <strong>JavaScript, Html, CSS, Learning More Languages</strong> 
          <br/>
-         - 📫 How to reach me: <a href="https://discord.gg/ktTJCzTtCM">Pro Gamer 711 YT (The Code)#9546</a> on Discord -
+         - 📫 How to reach me: <a href="https://discord.gg/ktTJCzTtCM">Pro Gamer 711 YT (The Code)#9546</a> on Discord 
          <br/>
          <p align="center">                     
              <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pro-Gamer-711-YT&theme=radical&hide_border=true" />
