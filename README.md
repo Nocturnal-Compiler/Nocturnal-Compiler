@@ -26,7 +26,7 @@
          <br/><br/><br/>
          <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Pro-Gamer-711-YT&theme=radical&hide_border=true" />   
          <br/><br/><br/>
-         <img align="center" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Pro-Gamer-711-YT&hide_title=true&hide_border=true&langs_count=5&layout=compact&v=2.png"/><br/><br/><br/>
+         <img align="center" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Pro_Gamer_711_YT&hide_title=true&hide_border=true&langs_count=5&layout=compact&v=2.png"/><br/><br/><br/>
          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pro-Gamer-711-YT&theme=radical&show_icons=true&hide_border=true" />
          <br/><br/><br/>         
       </td>
