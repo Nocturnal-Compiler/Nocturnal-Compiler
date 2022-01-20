@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hello! Welcome to my Github, I'm DarkThunder!</h2>
+<h2 align="center">👋 Hello! Welcome to my Github, I'm Pro Gamer 711!</h2>
 <p align="center">
 <table align="center">
    <tr>
@@ -6,7 +6,7 @@
          <p align="center">    
          <img align="center" src="https://i.imgur.com/E029hYg.png" width="50%"/></a><br/>
          <br/><br/>
-            <a href="https://discord.gg/ktTJCzTtCM"><img align="center" src="https://discordapp.com/api/guilds/770993454703575060/widget.png?style=banner2" alt="Discord Banner2"/></a>
+            <a href="https://discord.gg/ktTJCzTtCM"><img align="center" src="https://discordapp.com/api/guilds/924943715053760572/widget.png?style=banner2" alt="Discord Banner2"/></a>
          <br/><br/>
          - 🔭 I’m currently working on <strong><a href="https://hydrabot.fun">Multiverse Bot - Discord Bot</a></strong> -
          <br/>
@@ -22,7 +22,7 @@
       </td>
       <td>
       <br/><br/>
-      <h2 align="center">📊 DarkThunder's Github Statistics 📊 </h2>   
+      <h2 align="center">📊 Pro Gamer 711 YT's Github Statistics 📊 </h2>   
          <br/><br/><br/>
          <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Pro-Gamer-711-YT&theme=radical&hide_border=true" />   
          <br/><br/><br/>
