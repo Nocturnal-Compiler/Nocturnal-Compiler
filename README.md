@@ -1,34 +1,35 @@
-<h2> Hey there! I'm Pro Gamer 711 YT.</h2>
-
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
-
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🌱 &nbsp; Learning more about Discord Bot Devoloping.
-
-<h3> 🛠 &nbsp;Tech Stack</h3>
-
-
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-- 🛢 &nbsp;
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![IntelliJ](https://img.shields.io/badge/-IntelliJ-333333?style=flat&logo=intellij-idea&logoColor=ffffff)
-
-
-<br/>
-<a href="https://github.com/Pro-Gamer-711-YT">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pro-Gamer-711-YT&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pro-Gamer-711-YT&theme=buefy&layout=compact&exclude_repo=procon-plugins" />
-</a>
-<br/>
+<h2 align="center">👋 Hello! Welcome to my Github, I'm DarkThunder!</h2>
+<p align="center">
+<table align="center">
+   <tr>
+      <td>
+         <p align="center">    
+         <img align="center" src="https://i.imgur.com/E029hYg.png" width="50%"/></a><br/>
+         <br/><br/>
+            <a href="https://discord.gg/ktTJCzTtCM"><img align="center" src="https://discordapp.com/api/guilds/770993454703575060/widget.png?style=banner2" alt="Discord Banner2"/></a>
+         <br/><br/>
+         - 🔭 I’m currently working on <strong><a href="https://hydrabot.fun">Multiverse Bot - Discord Bot</a></strong> -
+         <br/>
+         - 🌱 I’m currently learning <strong>Javascript</strong> -
+         <br/>
+         - 💬 Ask me about <strong>JavaScript, Html, CSS, Learning More Languages</strong> -
+         <br/>
+         - 📫 How to reach me: <a href="https://discord.gg/ktTJCzTtCM">Pro Gamer 711 YT (The Code)#9546</a> on Discord -
+         <br/>
+         <p align="center">                     
+             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pro-Gamer-711-YT&theme=radical&hide_border=true" />
+         </p>  
+      </td>
+      <td>
+      <br/><br/>
+      <h2 align="center">📊 DarkThunder's Github Statistics 📊 </h2>   
+         <br/><br/><br/>
+         <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Pro-Gamer-711-YT&theme=radical&hide_border=true" />   
+         <br/><br/><br/>
+         <img align="center" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Pro-Gamer-711-YT&hide_title=true&hide_border=true&langs_count=5&layout=compact&v=2.png"/><br/><br/><br/>
+         <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pro-Gamer-711-YT&theme=radical&show_icons=true&hide_border=true" />
+         <br/><br/><br/>         
+      </td>
+   </tr>
+</table>
+</p>
