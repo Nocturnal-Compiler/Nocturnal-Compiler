@@ -6,7 +6,7 @@
          <p align="center">    
          <img align="center" src="https://i.imgur.com/E029hYg.png" width="50%"/></a><br/>
          <br/><br/>
-            <a href="https://discord.gg/ktTJCzTtCM"><img align="center" src="https://discordapp.com/api/guilds/924943715053760572/widget.png?style=banner2" alt="Discord Banner2"/></a>
+            <a href="https://discord.gg/ktTJCzTtCM"><img align="center" src="https://discordapp.com/api/guilds/924943715053760572/widget.png?style=banner1" alt="Discord Banner2"/></a>
          <br/><br/>
          - 🔭 I’m currently working on <strong><a href="https://multiverse-bot.herokuapp.com/">Multiverse Bot - Discord Bot</a></strong> -
          <br/>
