@@ -8,7 +8,7 @@
          <br/><br/>
             <a href="https://discord.gg/ktTJCzTtCM"><img align="center" src="https://discordapp.com/api/guilds/924943715053760572/widget.png?style=banner2" alt="Discord Banner2"/></a>
          <br/><br/>
-         - 🔭 I’m currently working on <strong><a href="https://hydrabot.fun">Multiverse Bot - Discord Bot</a></strong> -
+         - 🔭 I’m currently working on <strong><a href="https://multiverse-bot.herokuapp.com/">Multiverse Bot - Discord Bot</a></strong> -
          <br/>
          - 🌱 I’m currently learning <strong>Javascript</strong> -
          <br/>
